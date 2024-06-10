@@ -1,0 +1,36 @@
+            
+             1)destination for vacations
+
+             2)budget
+                
+             3)time
+
+             4)activities
+
+             5)accommodation
+                
+             6)transportation
+                
+             7)safety
+                
+             8)food
+                
+             9)language
+                
+             10)culture
+                
+             11)duration
+                
+             12)weather
+               
+             13)expenses
+                
+             14)events
+                
+             15)paris
+                
+             16)tokoyo
+               
+             17)japan
+                
+            
